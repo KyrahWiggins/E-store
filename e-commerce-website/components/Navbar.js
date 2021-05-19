@@ -19,7 +19,7 @@ const Navbar = () => {
     <Nav>
       <div>
         <Link href='/' passHref>
-          <StyledLink>KYREAUX KLOTHING</StyledLink>
+          <StyledLink>WELCOME</StyledLink>
         </Link>
       </div>
       <div>
